@@ -1,0 +1,15 @@
+Playtable/im0.png Playtable/sgm_opencv.npy Playtable/disp0GT.pfm
+PlaytableP/im0.png PlaytableP/sgm_opencv.npy PlaytableP/disp0GT.pfm
+Recycle/im0.png Recycle/sgm_opencv.npy Recycle/disp0GT.pfm
+Shelves/im0.png Shelves/sgm_opencv.npy Shelves/disp0GT.pfm
+Teddy/im0.png Teddy/sgm_opencv.npy Teddy/disp0GT.pfm
+Vintage/im0.png Vintage/sgm_opencv.npy Vintage/disp0GT.pfm
+Adirondack/im0.png Adirondack/sgm_opencv.npy Adirondack/disp0GT.pfm
+ArtL/im0.png ArtL/sgm_opencv.npy ArtL/disp0GT.pfm
+Jadeplant/im0.png Jadeplant/sgm_opencv.npy Jadeplant/disp0GT.pfm
+Motorcycle/im0.png Motorcycle/sgm_opencv.npy Motorcycle/disp0GT.pfm
+MotorcycleE/im0.png MotorcycleE/sgm_opencv.npy MotorcycleE/disp0GT.pfm
+Piano/im0.png Piano/sgm_opencv.npy Piano/disp0GT.pfm
+PianoL/im0.png PianoL/sgm_opencv.npy PianoL/disp0GT.pfm
+Pipes/im0.png Pipes/sgm_opencv.npy Pipes/disp0GT.pfm
+Playroom/im0.png Playroom/sgm_opencv.npy Playroom/disp0GT.pfm

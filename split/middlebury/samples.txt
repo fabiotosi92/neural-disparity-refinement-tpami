@@ -1,0 +1,3 @@
+Adirondack/im0.png Adirondack/sgm_opencv.npy Adirondack/disp0GT.pfm
+Teddy/im0.png Teddy/sgm_opencv.npy Teddy/disp0GT.pfm
+Piano/im0.png Piano/sgm_opencv.npy Piano/disp0GT.pfm

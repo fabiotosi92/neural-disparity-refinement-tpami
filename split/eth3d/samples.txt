@@ -1,0 +1,3 @@
+delivery_area_1l/im0.png delivery_area_1l/rsgm.png delivery_area_1l/disp0GT.pfm
+electro_1l/im0.png electro_1l/rsgm.png electro_1l/disp0GT.pfm
+playground_1l/im0.png playground_1l/rsgm.png playground_1l/disp0GT.pfm

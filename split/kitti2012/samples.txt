@@ -1,0 +1,4 @@
+colored_0/000000_10.png SGM/000000_10.png disp_occ/000000_10.png
+colored_0/000001_10.png SGM/000001_10.png disp_occ/000001_10.png
+colored_0/000002_10.png SGM/000002_10.png disp_occ/000002_10.png
+colored_0/000003_10.png SGM/000003_10.png disp_occ/000003_10.png
